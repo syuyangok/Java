@@ -1,8 +1,6 @@
 /**
  * The SocialFundraiser Class is used to simulate social Fundraiser.  
  * It is a sub class of Fundraiser.  
- * @author Yuyang Sun
- * @Lab time Tue 6:30
  * @version OOL2
  */
 
