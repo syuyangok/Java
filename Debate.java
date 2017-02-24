@@ -1,9 +1,7 @@
 /**
  * The Debate Class is used to simulate debate.  
  * A debate has a location, two candidates.  
- * The winner method denotes a winner by compare 2 randomly polls number.   
- * @author Yuyang Sun
- * @Lab time Tue 6:30
+ * The winner method denotes a winner by compare 2 randomly polls number. 
  * @version OOL2
  */
 
