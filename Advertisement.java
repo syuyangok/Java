@@ -1,7 +1,6 @@
 /**
  * The Advertisement Class is used to simulate advertisement.  
  * A Advertisement has a candidate and cost.  
- * @author Yuyang Sun
  * @Lab time Tue 6:30
  * @version OOL2
  */
