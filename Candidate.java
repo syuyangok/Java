@@ -2,9 +2,6 @@
  * The Candidate Class is used to simulate candidate.  
  * A Candiatdate has a name, slogan and money.  
  * The endorse denotes a string message.
- * 
- * @author Yuyang Sun
- * @Lab time Tue 6:30
  * @version OOL3
  */
 
