@@ -1,7 +1,6 @@
 /**
  * The AttackAdvertisement Class is used to simulate Attack advertisement.  
  * It is a sub class of Advertisement.  
- * @author Yuyang Sun
  * @Lab time Tue 6:30
  * @version OOL2
  */
