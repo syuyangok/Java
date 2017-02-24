@@ -2,8 +2,6 @@
  * The Election Class is used to simulate election.  
  * A election has a title, 10 candidates.  
  * The winning method denotes a winner by compare who gots most money. 
- * @author Yuyang Sun
- * @Lab time Tue 6:30
  * @version OOL2
  */
 
