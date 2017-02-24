@@ -2,8 +2,6 @@
  * The Fundraiser Class is used to simulate fundraiser.  
  * A fundraiser has a location, 1 candidates and donors.  
  * The raiseMoney method denotes generate money random by donors. 
- * @author Yuyang Sun
- * @Lab time Tue 6:30
  * @version OOL2
  */
 
